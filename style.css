@@ -55,7 +55,7 @@ h4 {
 }
 
 .character1 {
-  background-image: url("images/character1.png") no-repeat 0 0;
+  background-image: url("./img/character1.png") no-repeat 0 0;
   background-size: 100%;
   width: 363px;
   height: 344px;
@@ -66,7 +66,7 @@ h4 {
 }
 
 .character2 {
-  background-image: url("images/character2.png") no-repeat 0 0;
+  background-image: url("./img/character2.png") no-repeat 0 0;
   background-size: 100%;
   width: 309px;
   height: 371px;
@@ -76,7 +76,7 @@ h4 {
 }
 
 .character3 {
-  background-image: url("images/character3.png") no-repeat 0 0;
+  background-image: url("./img/character3.png") no-repeat 0 0;
   background-size: 100%;
   width: 297px;
   height: 286px;
